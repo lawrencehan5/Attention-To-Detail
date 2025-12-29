@@ -1,0 +1,9 @@
+kagglehub==0.3.13
+matplotlib==3.5.1
+numpy==1.21.5
+optuna==4.6.0
+Pillow==9.0.1
+scikit_learn==0.23.2
+torch==2.7.0
+torchvision==0.22.0
+tqdm==4.67.1
